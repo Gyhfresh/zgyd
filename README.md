@@ -1,3 +1,1 @@
-# zgyd
-a project for label system
-爬取数据框架
+# 爬虫程序页面：存放爬取政务数据的代码
