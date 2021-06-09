@@ -1,3 +1,1 @@
-# zgyd
-a project for label system
-标签体系构建
+# 标签体系构建界面：存放标签体系构建相关代码
