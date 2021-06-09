@@ -1,3 +1,1 @@
-# zgyd
-a project for label system
-标签识别框架
+# 标签识别：存放标签识别相关代码
